@@ -1,0 +1,6 @@
+lib/
+include/
+bin/
+.pytest_cache/
+__pycache__/
+.Python
