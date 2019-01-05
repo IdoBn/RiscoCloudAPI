@@ -5,7 +5,7 @@ This is a simple api that allows you to:
 * arm or disarm your detectors 
 
 # Research
-checkout the research here: [research.md]
+checkout the research [here](research.md)
 
 # Usage
 you can take a look at usage.py, it looks something like this:
