@@ -12,6 +12,9 @@ you must be authenticated to arm or disarm your detectors
 | Method  | URL  | Data  | Response |
 |---|---|---|---|
 | POST | /ELAS/WebUI/Security/ArmDisarm  |  The ASP.NET_SessionId and RUCookie must be included in your cookies and the form data should look like this: ```type=<id>:<arm/disarm>&passcode=&bypassZoneID=-1``` | a json object that represents your detectors  |
+|  | | | |
+
+
 
 # Get Detector State
 | Method  | URL  | Data  | Response |

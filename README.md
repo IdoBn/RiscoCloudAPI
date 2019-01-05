@@ -1,8 +1,11 @@
-# riscocloud api
+# RiscoCloud api
 This is a simple api that allows you to:
 * login to your riscocloud account
 * check the status of your detectors
 * arm or disarm your detectors 
+
+# Research
+checkout the research here: [research.md]
 
 # Usage
 you can take a look at usage.py, it looks something like this:
